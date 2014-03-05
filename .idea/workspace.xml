@@ -7,7 +7,13 @@
     <ignored path="best_in_place.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394026591025" ignored="false" />
-    <file path="/best_in_place.js" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394027148071" ignored="false" />
+    <file path="/best_in_place.js" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394029446974" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/app/views/leads/_lead_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394029488308" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/app/views/accounts/_account_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394028719304" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/app/views/vteams/_vteam_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394028792229" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/app/views/employees/_employee_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394028945647" ignored="false" />
+    <file path="/_employee_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394028909640" ignored="false" />
+    <file path="/_lead_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394029487611" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +36,7 @@
       <file leaf-file-name="best_in_place.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/assets/javascripts/best_in_place.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="308" column="17" selection-start="11518" selection-end="11518" vertical-scroll-proportion="0.251606">
+            <state line="244" column="74" selection-start="9306" selection-end="9306" vertical-scroll-proportion="0.33333334">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -415,7 +421,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/javascripts/best_in_place.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="308" column="17" selection-start="11518" selection-end="11518" vertical-scroll-proportion="0.251606">
+        <state line="244" column="74" selection-start="9306" selection-end="9306" vertical-scroll-proportion="0.33333334">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
