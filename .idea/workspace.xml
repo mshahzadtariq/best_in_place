@@ -2,18 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/assets/javascripts/best_in_place.js" afterPath="$PROJECT_DIR$/lib/assets/javascripts/best_in_place.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/best_in_place/helper.rb" afterPath="$PROJECT_DIR$/lib/best_in_place/helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="best_in_place.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394026591025" ignored="false" />
+    <file path="/Dummy.txt" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394097154306" ignored="false" />
     <file path="/best_in_place.js" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394029446974" ignored="false" />
-    <file path="$PROJECT_DIR$/../matrix/app/views/leads/_lead_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394029488308" ignored="false" />
-    <file path="$PROJECT_DIR$/../matrix/app/views/accounts/_account_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394028719304" ignored="false" />
-    <file path="$PROJECT_DIR$/../matrix/app/views/vteams/_vteam_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394028792229" ignored="false" />
-    <file path="$PROJECT_DIR$/../matrix/app/views/employees/_employee_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394028945647" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/app/views/leads/_lead_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394032223448" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/app/views/accounts/_account_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394032223448" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/app/views/vteams/_vteam_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394032223448" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/app/views/employees/_employee_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394032223448" ignored="false" />
     <file path="/_employee_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394028909640" ignored="false" />
     <file path="/_lead_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394029487611" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/Gemfile" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394032223448" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/app/views/contacts/_contact_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394093342279" ignored="false" />
+    <file path="/_contact_data_editable.html.erb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394093341539" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/app/assets/javascripts/application.js" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394093994995" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix/app/assets/javascripts/best_in_place_st.js" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394096650571" ignored="false" />
+    <file path="/best_in_place_st.js" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394096452732" ignored="false" />
+    <file path="/helper.rb" changelist="eb86ce0a-26cf-491a-a01a-2fcce32bf51d" time="1394097467068" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +41,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="best_in_place.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="best_in_place.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/assets/javascripts/best_in_place.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="281" column="2" selection-start="10510" selection-end="10510" vertical-scroll-proportion="1.3729373">
+            <state line="289" column="59" selection-start="10759" selection-end="10759" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -53,53 +61,17 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="helper.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/best_in_place/helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="33" selection-start="3786" selection-end="3786" vertical-scroll-proportion="0.36633664">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="best_in_place.purr.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/assets/javascripts/best_in_place.purr.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.purr.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/assets/javascripts/jquery.purr.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="display_methods.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/best_in_place/display_methods.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="check_version.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/best_in_place/check_version.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controller_extensions.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/best_in_place/controller_extensions.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_helpers.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/best_in_place/test_helpers.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -111,15 +83,6 @@
         <entry file="file://$PROJECT_DIR$/lib/best_in_place/utils.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/best_in_place/helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="46" selection-start="1838" selection-end="1850" vertical-scroll-proportion="18.0">
               <folding />
             </state>
           </provider>
@@ -144,6 +107,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/lib/assets/javascripts/best_in_place.js" />
+        <option value="$PROJECT_DIR$/lib/best_in_place/helper.rb" />
       </list>
     </option>
   </component>
@@ -275,24 +239,24 @@
     <frame x="57" y="24" width="1863" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15299945" sideWeight="0.67083335" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1563016" sideWeight="0.67083335" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -356,7 +320,7 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/best_in_place/engine.rb">
+    <entry file="file://$PROJECT_DIR$/lib/best_in_place/controller_extensions.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -370,21 +334,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/best_in_place.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/assets/javascripts/best_in_place.purr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/assets/javascripts/jquery.purr.js">
+    <entry file="file://$PROJECT_DIR$/lib/best_in_place/utils.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -393,12 +343,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/best_in_place/helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="46" selection-start="1838" selection-end="1850" vertical-scroll-proportion="18.0">
+        <state line="45" column="46" selection-start="1838" selection-end="1850" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/best_in_place/utils.rb">
+    <entry file="file://$PROJECT_DIR$/lib/best_in_place/test_helpers.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -412,6 +362,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/best_in_place/check_version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/best_in_place/display_methods.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -419,7 +376,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/best_in_place/check_version.rb">
+    <entry file="file://$PROJECT_DIR$/lib/best_in_place/utils.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/assets/javascripts/jquery.purr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.264454">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/assets/javascripts/best_in_place.purr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/best_in_place/railtie.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/best_in_place/engine.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -428,10 +413,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/assets/javascripts/best_in_place.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="281" column="2" selection-start="10510" selection-end="10510" vertical-scroll-proportion="1.3729373">
+        <state line="289" column="59" selection-start="10759" selection-end="10759" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/best_in_place.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/best_in_place/helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="33" selection-start="3786" selection-end="3786" vertical-scroll-proportion="0.36633664">
+          <folding />
         </state>
       </provider>
     </entry>
